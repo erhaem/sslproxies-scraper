@@ -1,0 +1,32 @@
+name: Scrape
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  scrape:
+    name: Scrape
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+      - name: Install dependencies
+        run: bun install
+      - name: Scrape
+        run: bun scrape
+      - name: Update log
+        run: |
+          git config --local user.name "erhaem"
+          git config --local user.email "${{ secrets.EMAIL }}"
+          timestamp=$(date '+%F %H:%M:%S %Z')
+          git commit -am "update proxy: ${timestamp}"
+          git push origin ${{ github.ref }}
+        continue-on-error: true
