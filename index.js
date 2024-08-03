@@ -1,14 +1,17 @@
 import * as cheerio from 'cheerio';
 
 async function fetchSslProxies() {
-  const page = await fetch('https://www.sslproxies.org')
-    .then((res) => res.text())
-    .catch((err) => {
-      console.log(`Failed to fetch: ${err.message}`);
-      return null;
-    });
-
-  return page;
+  try {
+    const response = await fetch('https://www.sslproxies.org');
+    if (!response.ok) {
+      throw new Error(`Not OK! Status: ${response.status}`);
+    }
+    const page = await response.text();
+    return page;
+  } catch (err) {
+    console.log(`Failed to fetch: ${err.message}`);
+    return null;
+  }
 }
 
 async function formatProxyList(page) {
@@ -45,6 +48,7 @@ async function formatProxyList(page) {
 async function writeFile(path, text) {
   await Bun.write(path, text);
 }
+
 async function run() {
   const page = await fetchSslProxies();
   const proxies = await formatProxyList(page);
