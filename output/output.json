@@ -1,13 +1,5 @@
 [
   {
-    "ip": "35.185.196.38",
-    "port": "3128",
-    "anonymity": "anonymous",
-    "google": "no",
-    "https": "yes",
-    "country_code": "US"
-  },
-  {
     "ip": "44.195.247.145",
     "port": "80",
     "anonymity": "elite proxy",
@@ -30,6 +22,14 @@
     "google": "no",
     "https": "yes",
     "country_code": "US"
+  },
+  {
+    "ip": "3.123.150.192",
+    "port": "3128",
+    "anonymity": "elite proxy",
+    "google": "no",
+    "https": "yes",
+    "country_code": "DE"
   },
   {
     "ip": "13.208.56.180",
@@ -56,12 +56,36 @@
     "country_code": "US"
   },
   {
+    "ip": "54.87.39.13",
+    "port": "8080",
+    "anonymity": "elite proxy",
+    "google": "no",
+    "https": "yes",
+    "country_code": "US"
+  },
+  {
     "ip": "160.86.242.23",
     "port": "8080",
     "anonymity": "elite proxy",
     "google": "no",
     "https": "yes",
     "country_code": "JP"
+  },
+  {
+    "ip": "99.80.11.54",
+    "port": "3128",
+    "anonymity": "elite proxy",
+    "google": "no",
+    "https": "yes",
+    "country_code": "IE"
+  },
+  {
+    "ip": "35.185.196.38",
+    "port": "3128",
+    "anonymity": "anonymous",
+    "google": "no",
+    "https": "yes",
+    "country_code": "US"
   },
   {
     "ip": "72.10.160.91",
@@ -216,14 +240,6 @@
     "country_code": "SG"
   },
   {
-    "ip": "99.80.11.54",
-    "port": "3128",
-    "anonymity": "elite proxy",
-    "google": "no",
-    "https": "yes",
-    "country_code": "IE"
-  },
-  {
     "ip": "3.37.125.76",
     "port": "3128",
     "anonymity": "elite proxy",
@@ -238,14 +254,6 @@
     "google": "no",
     "https": "yes",
     "country_code": "KR"
-  },
-  {
-    "ip": "3.123.150.192",
-    "port": "3128",
-    "anonymity": "elite proxy",
-    "google": "no",
-    "https": "yes",
-    "country_code": "DE"
   },
   {
     "ip": "190.242.37.62",
@@ -430,14 +438,6 @@
     "google": "",
     "https": "yes",
     "country_code": "AR"
-  },
-  {
-    "ip": "54.87.39.13",
-    "port": "8080",
-    "anonymity": "elite proxy",
-    "google": "no",
-    "https": "yes",
-    "country_code": "US"
   },
   {
     "ip": "187.251.130.156",
