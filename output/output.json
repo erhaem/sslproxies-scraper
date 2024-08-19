@@ -8,38 +8,6 @@
     "country_code": "US"
   },
   {
-    "ip": "3.123.150.192",
-    "port": "3128",
-    "anonymity": "elite proxy",
-    "google": "no",
-    "https": "yes",
-    "country_code": "DE"
-  },
-  {
-    "ip": "3.126.147.182",
-    "port": "3128",
-    "anonymity": "elite proxy",
-    "google": "no",
-    "https": "yes",
-    "country_code": "DE"
-  },
-  {
-    "ip": "54.179.44.51",
-    "port": "3128",
-    "anonymity": "elite proxy",
-    "google": "no",
-    "https": "yes",
-    "country_code": "SG"
-  },
-  {
-    "ip": "3.127.62.252",
-    "port": "80",
-    "anonymity": "elite proxy",
-    "google": "no",
-    "https": "yes",
-    "country_code": "DE"
-  },
-  {
     "ip": "69.197.135.43",
     "port": "18080",
     "anonymity": "elite proxy",
@@ -56,6 +24,38 @@
     "country_code": "JP"
   },
   {
+    "ip": "54.179.44.51",
+    "port": "3128",
+    "anonymity": "elite proxy",
+    "google": "no",
+    "https": "yes",
+    "country_code": "SG"
+  },
+  {
+    "ip": "3.126.147.182",
+    "port": "3128",
+    "anonymity": "elite proxy",
+    "google": "no",
+    "https": "yes",
+    "country_code": "DE"
+  },
+  {
+    "ip": "3.123.150.192",
+    "port": "3128",
+    "anonymity": "elite proxy",
+    "google": "no",
+    "https": "yes",
+    "country_code": "DE"
+  },
+  {
+    "ip": "3.127.62.252",
+    "port": "80",
+    "anonymity": "elite proxy",
+    "google": "no",
+    "https": "yes",
+    "country_code": "DE"
+  },
+  {
     "ip": "171.244.60.55",
     "port": "8080",
     "anonymity": "anonymous",
@@ -70,14 +70,6 @@
     "google": "no",
     "https": "yes",
     "country_code": "US"
-  },
-  {
-    "ip": "189.240.60.163",
-    "port": "9090",
-    "anonymity": "elite proxy",
-    "google": "no",
-    "https": "yes",
-    "country_code": "MX"
   },
   {
     "ip": "189.240.60.164",
@@ -798,5 +790,13 @@
     "google": "",
     "https": "yes",
     "country_code": "ID"
+  },
+  {
+    "ip": "212.110.188.202",
+    "port": "34409",
+    "anonymity": "anonymous",
+    "google": "no",
+    "https": "yes",
+    "country_code": "GB"
   }
 ]
