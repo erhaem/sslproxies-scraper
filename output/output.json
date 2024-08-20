@@ -1,5 +1,45 @@
 [
   {
+    "ip": "47.88.31.196",
+    "port": "8080",
+    "anonymity": "anonymous",
+    "google": "no",
+    "https": "yes",
+    "country_code": "US"
+  },
+  {
+    "ip": "114.129.2.82",
+    "port": "8081",
+    "anonymity": "elite proxy",
+    "google": "no",
+    "https": "yes",
+    "country_code": "JP"
+  },
+  {
+    "ip": "116.105.57.43",
+    "port": "10001",
+    "anonymity": "elite proxy",
+    "google": "no",
+    "https": "yes",
+    "country_code": "VN"
+  },
+  {
+    "ip": "37.27.198.141",
+    "port": "80",
+    "anonymity": "elite proxy",
+    "google": "no",
+    "https": "yes",
+    "country_code": "FI"
+  },
+  {
+    "ip": "154.94.5.241",
+    "port": "7001",
+    "anonymity": "elite proxy",
+    "google": "no",
+    "https": "yes",
+    "country_code": "DE"
+  },
+  {
     "ip": "190.242.37.62",
     "port": "8080",
     "anonymity": "elite proxy",
@@ -112,28 +152,12 @@
     "country_code": "CA"
   },
   {
-    "ip": "37.27.198.141",
-    "port": "80",
-    "anonymity": "elite proxy",
-    "google": "",
-    "https": "yes",
-    "country_code": "FI"
-  },
-  {
     "ip": "67.43.236.22",
     "port": "22079",
     "anonymity": "elite proxy",
     "google": "no",
     "https": "yes",
     "country_code": "CA"
-  },
-  {
-    "ip": "154.94.5.241",
-    "port": "7001",
-    "anonymity": "elite proxy",
-    "google": "no",
-    "https": "yes",
-    "country_code": "DE"
   },
   {
     "ip": "67.43.227.229",
@@ -774,29 +798,5 @@
     "google": "no",
     "https": "yes",
     "country_code": "UG"
-  },
-  {
-    "ip": "79.175.189.51",
-    "port": "1080",
-    "anonymity": "elite proxy",
-    "google": "no",
-    "https": "yes",
-    "country_code": "IR"
-  },
-  {
-    "ip": "52.185.132.193",
-    "port": "8080",
-    "anonymity": "anonymous",
-    "google": "yes",
-    "https": "yes",
-    "country_code": "JP"
-  },
-  {
-    "ip": "91.142.166.74",
-    "port": "8080",
-    "anonymity": "elite proxy",
-    "google": "no",
-    "https": "yes",
-    "country_code": "UA"
   }
 ]
