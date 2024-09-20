@@ -1,5 +1,21 @@
 [
   {
+    "ip": "8.219.97.248",
+    "port": "80",
+    "anonymity": "anonymous",
+    "google": "no",
+    "https": "yes",
+    "country_code": "SG"
+  },
+  {
+    "ip": "64.92.82.59",
+    "port": "8080",
+    "anonymity": "elite proxy",
+    "google": "no",
+    "https": "yes",
+    "country_code": "US"
+  },
+  {
     "ip": "72.10.160.91",
     "port": "8167",
     "anonymity": "elite proxy",
@@ -782,21 +798,5 @@
     "google": "no",
     "https": "yes",
     "country_code": "US"
-  },
-  {
-    "ip": "45.91.201.100",
-    "port": "8081",
-    "anonymity": "anonymous",
-    "google": "yes",
-    "https": "yes",
-    "country_code": "NL"
-  },
-  {
-    "ip": "27.147.155.42",
-    "port": "58080",
-    "anonymity": "elite proxy",
-    "google": "no",
-    "https": "yes",
-    "country_code": "BD"
   }
 ]
