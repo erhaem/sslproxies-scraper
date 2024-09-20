@@ -1,11 +1,19 @@
 [
   {
-    "ip": "64.92.82.59",
+    "ip": "209.126.80.197",
+    "port": "9595",
+    "anonymity": "anonymous",
+    "google": "no",
+    "https": "yes",
+    "country_code": "US"
+  },
+  {
+    "ip": "160.86.242.23",
     "port": "8080",
     "anonymity": "elite proxy",
     "google": "no",
     "https": "yes",
-    "country_code": "US"
+    "country_code": "JP"
   },
   {
     "ip": "72.10.160.171",
@@ -24,22 +32,6 @@
     "country_code": "CA"
   },
   {
-    "ip": "160.86.242.23",
-    "port": "8080",
-    "anonymity": "elite proxy",
-    "google": "no",
-    "https": "yes",
-    "country_code": "JP"
-  },
-  {
-    "ip": "209.126.80.197",
-    "port": "9595",
-    "anonymity": "anonymous",
-    "google": "no",
-    "https": "yes",
-    "country_code": "US"
-  },
-  {
     "ip": "72.10.160.94",
     "port": "8355",
     "anonymity": "elite proxy",
@@ -54,14 +46,6 @@
     "google": "no",
     "https": "yes",
     "country_code": "US"
-  },
-  {
-    "ip": "67.43.227.226",
-    "port": "30373",
-    "anonymity": "elite proxy",
-    "google": "yes",
-    "https": "yes",
-    "country_code": "CA"
   },
   {
     "ip": "72.10.160.93",
@@ -234,14 +218,6 @@
   {
     "ip": "67.43.236.19",
     "port": "17293",
-    "anonymity": "elite proxy",
-    "google": "yes",
-    "https": "yes",
-    "country_code": "CA"
-  },
-  {
-    "ip": "72.10.160.170",
-    "port": "2657",
     "anonymity": "elite proxy",
     "google": "yes",
     "https": "yes",
@@ -798,5 +774,29 @@
     "google": "no",
     "https": "yes",
     "country_code": "US"
+  },
+  {
+    "ip": "45.91.201.100",
+    "port": "8081",
+    "anonymity": "anonymous",
+    "google": "yes",
+    "https": "yes",
+    "country_code": "NL"
+  },
+  {
+    "ip": "27.147.155.42",
+    "port": "58080",
+    "anonymity": "elite proxy",
+    "google": "no",
+    "https": "yes",
+    "country_code": "BD"
+  },
+  {
+    "ip": "43.133.59.220",
+    "port": "3128",
+    "anonymity": "anonymous",
+    "google": "no",
+    "https": "yes",
+    "country_code": "SG"
   }
 ]
