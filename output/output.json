@@ -1,19 +1,19 @@
 [
   {
+    "ip": "8.219.97.248",
+    "port": "80",
+    "anonymity": "anonymous",
+    "google": "no",
+    "https": "yes",
+    "country_code": "SG"
+  },
+  {
     "ip": "160.86.242.23",
     "port": "8080",
     "anonymity": "elite proxy",
     "google": "no",
     "https": "yes",
     "country_code": "JP"
-  },
-  {
-    "ip": "148.72.165.7",
-    "port": "30127",
-    "anonymity": "anonymous",
-    "google": "no",
-    "https": "yes",
-    "country_code": "US"
   },
   {
     "ip": "64.92.82.59",
@@ -136,14 +136,6 @@
     "country_code": "SG"
   },
   {
-    "ip": "72.10.160.170",
-    "port": "2657",
-    "anonymity": "elite proxy",
-    "google": "no",
-    "https": "yes",
-    "country_code": "CA"
-  },
-  {
     "ip": "67.43.236.18",
     "port": "1853",
     "anonymity": "elite proxy",
@@ -227,22 +219,6 @@
     "ip": "67.43.227.230",
     "port": "4961",
     "anonymity": "elite proxy",
-    "google": "yes",
-    "https": "yes",
-    "country_code": "CA"
-  },
-  {
-    "ip": "4.234.78.115",
-    "port": "8080",
-    "anonymity": "elite proxy",
-    "google": "no",
-    "https": "yes",
-    "country_code": "GB"
-  },
-  {
-    "ip": "72.10.160.172",
-    "port": "9739",
-    "anonymity": "anonymous",
     "google": "yes",
     "https": "yes",
     "country_code": "CA"
@@ -680,6 +656,14 @@
     "country_code": "BR"
   },
   {
+    "ip": "135.181.29.13",
+    "port": "30133",
+    "anonymity": "anonymous",
+    "google": "no",
+    "https": "yes",
+    "country_code": "FI"
+  },
+  {
     "ip": "8.220.204.215",
     "port": "8008",
     "anonymity": "anonymous",
@@ -760,6 +744,14 @@
     "country_code": "EG"
   },
   {
+    "ip": "47.91.65.23",
+    "port": "3128",
+    "anonymity": "anonymous",
+    "google": "no",
+    "https": "yes",
+    "country_code": "DE"
+  },
+  {
     "ip": "5.161.219.13",
     "port": "4228",
     "anonymity": "anonymous",
@@ -798,5 +790,13 @@
     "google": "no",
     "https": "yes",
     "country_code": "JP"
+  },
+  {
+    "ip": "190.107.232.138",
+    "port": "999",
+    "anonymity": "anonymous",
+    "google": "no",
+    "https": "yes",
+    "country_code": "EC"
   }
 ]
