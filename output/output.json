@@ -1,11 +1,11 @@
 [
   {
-    "ip": "8.219.97.248",
-    "port": "80",
-    "anonymity": "anonymous",
+    "ip": "108.62.60.32",
+    "port": "3128",
+    "anonymity": "elite proxy",
     "google": "no",
     "https": "yes",
-    "country_code": "SG"
+    "country_code": "US"
   },
   {
     "ip": "193.203.70.30",
@@ -16,23 +16,23 @@
     "country_code": "GB"
   },
   {
-    "ip": "67.43.227.227",
-    "port": "11023",
+    "ip": "67.43.227.229",
+    "port": "16401",
     "anonymity": "elite proxy",
-    "google": "yes",
+    "google": "no",
     "https": "yes",
     "country_code": "CA"
   },
   {
-    "ip": "72.10.160.90",
-    "port": "1365",
+    "ip": "35.220.254.137",
+    "port": "8080",
     "anonymity": "elite proxy",
-    "google": "yes",
+    "google": "no",
     "https": "yes",
-    "country_code": "CA"
+    "country_code": "HK"
   },
   {
-    "ip": "160.86.242.23",
+    "ip": "223.135.156.183",
     "port": "8080",
     "anonymity": "elite proxy",
     "google": "no",
@@ -40,16 +40,8 @@
     "country_code": "JP"
   },
   {
-    "ip": "15.204.161.192",
-    "port": "18080",
-    "anonymity": "elite proxy",
-    "google": "yes",
-    "https": "yes",
-    "country_code": "US"
-  },
-  {
-    "ip": "178.128.113.118",
-    "port": "23128",
+    "ip": "8.219.97.248",
+    "port": "80",
     "anonymity": "anonymous",
     "google": "no",
     "https": "yes",
@@ -64,12 +56,28 @@
     "country_code": "US"
   },
   {
-    "ip": "51.222.161.115",
-    "port": "80",
-    "anonymity": "anonymous",
+    "ip": "72.10.160.174",
+    "port": "13093",
+    "anonymity": "elite proxy",
     "google": "no",
     "https": "yes",
     "country_code": "CA"
+  },
+  {
+    "ip": "67.43.227.228",
+    "port": "23737",
+    "anonymity": "elite proxy",
+    "google": "no",
+    "https": "yes",
+    "country_code": "CA"
+  },
+  {
+    "ip": "160.86.242.23",
+    "port": "8080",
+    "anonymity": "elite proxy",
+    "google": "no",
+    "https": "yes",
+    "country_code": "JP"
   },
   {
     "ip": "43.134.32.184",
@@ -262,6 +270,38 @@
     "google": "no",
     "https": "yes",
     "country_code": "DE"
+  },
+  {
+    "ip": "67.43.227.227",
+    "port": "11023",
+    "anonymity": "elite proxy",
+    "google": "yes",
+    "https": "yes",
+    "country_code": "CA"
+  },
+  {
+    "ip": "72.10.160.90",
+    "port": "1365",
+    "anonymity": "elite proxy",
+    "google": "yes",
+    "https": "yes",
+    "country_code": "CA"
+  },
+  {
+    "ip": "15.204.161.192",
+    "port": "18080",
+    "anonymity": "elite proxy",
+    "google": "yes",
+    "https": "yes",
+    "country_code": "US"
+  },
+  {
+    "ip": "51.222.161.115",
+    "port": "80",
+    "anonymity": "anonymous",
+    "google": "no",
+    "https": "yes",
+    "country_code": "CA"
   },
   {
     "ip": "129.226.193.16",
@@ -504,14 +544,6 @@
     "country_code": "SG"
   },
   {
-    "ip": "35.220.254.137",
-    "port": "8080",
-    "anonymity": "anonymous",
-    "google": "no",
-    "https": "yes",
-    "country_code": "HK"
-  },
-  {
     "ip": "157.15.80.20",
     "port": "7777",
     "anonymity": "anonymous",
@@ -752,14 +784,6 @@
     "country_code": "CA"
   },
   {
-    "ip": "43.134.121.40",
-    "port": "3128",
-    "anonymity": "anonymous",
-    "google": "no",
-    "https": "yes",
-    "country_code": "SG"
-  },
-  {
     "ip": "47.88.31.196",
     "port": "8080",
     "anonymity": "anonymous",
@@ -768,35 +792,11 @@
     "country_code": "US"
   },
   {
-    "ip": "114.214.162.21",
-    "port": "7897",
-    "anonymity": "anonymous",
-    "google": "no",
-    "https": "yes",
-    "country_code": "CN"
-  },
-  {
     "ip": "123.126.158.50",
     "port": "80",
     "anonymity": "anonymous",
     "google": "no",
     "https": "yes",
     "country_code": "CN"
-  },
-  {
-    "ip": "158.160.63.194",
-    "port": "8090",
-    "anonymity": "elite proxy",
-    "google": "no",
-    "https": "yes",
-    "country_code": "RU"
-  },
-  {
-    "ip": "15.228.204.81",
-    "port": "3128",
-    "anonymity": "elite proxy",
-    "google": "no",
-    "https": "yes",
-    "country_code": "BR"
   }
 ]
