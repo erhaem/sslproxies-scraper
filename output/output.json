@@ -24,12 +24,92 @@
     "country_code": "US"
   },
   {
+    "ip": "8.219.97.248",
+    "port": "80",
+    "anonymity": "anonymous",
+    "google": "no",
+    "https": "yes",
+    "country_code": "SG"
+  },
+  {
     "ip": "51.222.161.115",
     "port": "80",
     "anonymity": "anonymous",
     "google": "no",
     "https": "yes",
     "country_code": "CA"
+  },
+  {
+    "ip": "43.153.207.93",
+    "port": "3128",
+    "anonymity": "anonymous",
+    "google": "no",
+    "https": "yes",
+    "country_code": "SG"
+  },
+  {
+    "ip": "223.135.156.183",
+    "port": "8080",
+    "anonymity": "elite proxy",
+    "google": "no",
+    "https": "yes",
+    "country_code": "JP"
+  },
+  {
+    "ip": "47.252.29.28",
+    "port": "11222",
+    "anonymity": "elite proxy",
+    "google": "no",
+    "https": "yes",
+    "country_code": "US"
+  },
+  {
+    "ip": "67.43.228.254",
+    "port": "2679",
+    "anonymity": "elite proxy",
+    "google": "no",
+    "https": "yes",
+    "country_code": "CA"
+  },
+  {
+    "ip": "103.107.182.16",
+    "port": "25512",
+    "anonymity": "elite proxy",
+    "google": "yes",
+    "https": "yes",
+    "country_code": "VN"
+  },
+  {
+    "ip": "20.26.97.150",
+    "port": "8080",
+    "anonymity": "elite proxy",
+    "google": "no",
+    "https": "yes",
+    "country_code": "GB"
+  },
+  {
+    "ip": "147.75.34.93",
+    "port": "9400",
+    "anonymity": "elite proxy",
+    "google": "no",
+    "https": "yes",
+    "country_code": "NL"
+  },
+  {
+    "ip": "68.178.168.41",
+    "port": "80",
+    "anonymity": "elite proxy",
+    "google": "no",
+    "https": "yes",
+    "country_code": "US"
+  },
+  {
+    "ip": "31.207.47.56",
+    "port": "8118",
+    "anonymity": "elite proxy",
+    "google": "no",
+    "https": "yes",
+    "country_code": "NL"
   },
   {
     "ip": "157.230.89.122",
@@ -64,22 +144,6 @@
     "country_code": "CA"
   },
   {
-    "ip": "223.135.156.183",
-    "port": "8080",
-    "anonymity": "elite proxy",
-    "google": "no",
-    "https": "yes",
-    "country_code": "JP"
-  },
-  {
-    "ip": "147.75.34.93",
-    "port": "9400",
-    "anonymity": "elite proxy",
-    "google": "no",
-    "https": "yes",
-    "country_code": "NL"
-  },
-  {
     "ip": "116.105.18.72",
     "port": "10002",
     "anonymity": "anonymous",
@@ -92,14 +156,6 @@
     "port": "8080",
     "anonymity": "anonymous",
     "google": "",
-    "https": "yes",
-    "country_code": "GB"
-  },
-  {
-    "ip": "20.26.97.150",
-    "port": "8080",
-    "anonymity": "elite proxy",
-    "google": "no",
     "https": "yes",
     "country_code": "GB"
   },
@@ -232,14 +288,6 @@
     "country_code": "GB"
   },
   {
-    "ip": "103.107.182.16",
-    "port": "25512",
-    "anonymity": "elite proxy",
-    "google": "yes",
-    "https": "yes",
-    "country_code": "VN"
-  },
-  {
     "ip": "103.56.157.223",
     "port": "8080",
     "anonymity": "anonymous",
@@ -258,14 +306,6 @@
   {
     "ip": "72.10.160.94",
     "port": "8355",
-    "anonymity": "elite proxy",
-    "google": "no",
-    "https": "yes",
-    "country_code": "CA"
-  },
-  {
-    "ip": "67.43.228.254",
-    "port": "2679",
     "anonymity": "elite proxy",
     "google": "no",
     "https": "yes",
@@ -758,45 +798,5 @@
     "google": "",
     "https": "yes",
     "country_code": "US"
-  },
-  {
-    "ip": "149.129.226.9",
-    "port": "80",
-    "anonymity": "anonymous",
-    "google": "",
-    "https": "yes",
-    "country_code": "ID"
-  },
-  {
-    "ip": "87.247.186.40",
-    "port": "1081",
-    "anonymity": "anonymous",
-    "google": "",
-    "https": "yes",
-    "country_code": "AE"
-  },
-  {
-    "ip": "118.27.107.3",
-    "port": "3128",
-    "anonymity": "elite proxy",
-    "google": "no",
-    "https": "yes",
-    "country_code": "JP"
-  },
-  {
-    "ip": "2.59.181.125",
-    "port": "33420",
-    "anonymity": "anonymous",
-    "google": "no",
-    "https": "yes",
-    "country_code": "TR"
-  },
-  {
-    "ip": "201.151.252.120",
-    "port": "80",
-    "anonymity": "anonymous",
-    "google": "no",
-    "https": "yes",
-    "country_code": "MX"
   }
 ]
