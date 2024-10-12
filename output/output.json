@@ -1,13 +1,5 @@
 [
   {
-    "ip": "187.94.100.254",
-    "port": "8080",
-    "anonymity": "elite proxy",
-    "google": "no",
-    "https": "yes",
-    "country_code": "BR"
-  },
-  {
     "ip": "178.128.113.118",
     "port": "23128",
     "anonymity": "anonymous",
@@ -16,12 +8,52 @@
     "country_code": "SG"
   },
   {
+    "ip": "43.153.208.148",
+    "port": "3128",
+    "anonymity": "anonymous",
+    "google": "no",
+    "https": "yes",
+    "country_code": "SG"
+  },
+  {
+    "ip": "187.94.100.254",
+    "port": "8080",
+    "anonymity": "elite proxy",
+    "google": "no",
+    "https": "yes",
+    "country_code": "BR"
+  },
+  {
     "ip": "160.86.242.23",
     "port": "8080",
     "anonymity": "elite proxy",
     "google": "no",
     "https": "yes",
     "country_code": "JP"
+  },
+  {
+    "ip": "47.241.43.44",
+    "port": "7777",
+    "anonymity": "elite proxy",
+    "google": "no",
+    "https": "yes",
+    "country_code": "SG"
+  },
+  {
+    "ip": "114.129.2.82",
+    "port": "8081",
+    "anonymity": "elite proxy",
+    "google": "no",
+    "https": "yes",
+    "country_code": "JP"
+  },
+  {
+    "ip": "72.10.160.90",
+    "port": "1365",
+    "anonymity": "elite proxy",
+    "google": "no",
+    "https": "yes",
+    "country_code": "CA"
   },
   {
     "ip": "43.134.229.98",
@@ -38,30 +70,6 @@
     "google": "no",
     "https": "yes",
     "country_code": "SG"
-  },
-  {
-    "ip": "43.153.208.148",
-    "port": "3128",
-    "anonymity": "anonymous",
-    "google": "no",
-    "https": "yes",
-    "country_code": "SG"
-  },
-  {
-    "ip": "43.134.68.153",
-    "port": "3128",
-    "anonymity": "anonymous",
-    "google": "no",
-    "https": "yes",
-    "country_code": "SG"
-  },
-  {
-    "ip": "51.222.161.115",
-    "port": "80",
-    "anonymity": "anonymous",
-    "google": "no",
-    "https": "yes",
-    "country_code": "CA"
   },
   {
     "ip": "34.97.229.206",
@@ -252,14 +260,6 @@
     "port": "3343",
     "anonymity": "anonymous",
     "google": "",
-    "https": "yes",
-    "country_code": "CA"
-  },
-  {
-    "ip": "72.10.160.90",
-    "port": "1365",
-    "anonymity": "elite proxy",
-    "google": "yes",
     "https": "yes",
     "country_code": "CA"
   },
