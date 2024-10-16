@@ -16,22 +16,6 @@
     "country_code": "SG"
   },
   {
-    "ip": "72.10.160.171",
-    "port": "10095",
-    "anonymity": "elite proxy",
-    "google": "no",
-    "https": "yes",
-    "country_code": "CA"
-  },
-  {
-    "ip": "67.43.236.18",
-    "port": "1853",
-    "anonymity": "elite proxy",
-    "google": "yes",
-    "https": "yes",
-    "country_code": "CA"
-  },
-  {
     "ip": "51.222.161.115",
     "port": "80",
     "anonymity": "anonymous",
@@ -56,12 +40,12 @@
     "country_code": "KR"
   },
   {
-    "ip": "47.88.31.196",
+    "ip": "223.135.156.183",
     "port": "8080",
-    "anonymity": "anonymous",
+    "anonymity": "elite proxy",
     "google": "no",
     "https": "yes",
-    "country_code": "US"
+    "country_code": "JP"
   },
   {
     "ip": "114.129.2.82",
@@ -70,6 +54,38 @@
     "google": "no",
     "https": "yes",
     "country_code": "JP"
+  },
+  {
+    "ip": "67.43.227.227",
+    "port": "11023",
+    "anonymity": "elite proxy",
+    "google": "no",
+    "https": "yes",
+    "country_code": "CA"
+  },
+  {
+    "ip": "67.43.236.18",
+    "port": "1853",
+    "anonymity": "elite proxy",
+    "google": "yes",
+    "https": "yes",
+    "country_code": "CA"
+  },
+  {
+    "ip": "72.10.160.171",
+    "port": "10095",
+    "anonymity": "elite proxy",
+    "google": "no",
+    "https": "yes",
+    "country_code": "CA"
+  },
+  {
+    "ip": "47.88.31.196",
+    "port": "8080",
+    "anonymity": "anonymous",
+    "google": "no",
+    "https": "yes",
+    "country_code": "US"
   },
   {
     "ip": "130.162.148.105",
@@ -560,14 +576,6 @@
     "country_code": "BR"
   },
   {
-    "ip": "67.43.227.227",
-    "port": "11023",
-    "anonymity": "elite proxy",
-    "google": "yes",
-    "https": "yes",
-    "country_code": "CA"
-  },
-  {
     "ip": "67.43.227.228",
     "port": "23737",
     "anonymity": "elite proxy",
@@ -790,13 +798,5 @@
     "google": "no",
     "https": "yes",
     "country_code": "US"
-  },
-  {
-    "ip": "13.55.254.165",
-    "port": "3128",
-    "anonymity": "anonymous",
-    "google": "yes",
-    "https": "yes",
-    "country_code": "AU"
   }
 ]
