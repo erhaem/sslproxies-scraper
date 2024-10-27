@@ -1,27 +1,27 @@
 [
   {
-    "ip": "14.241.80.61",
-    "port": "8080",
+    "ip": "114.129.2.82",
+    "port": "8081",
     "anonymity": "elite proxy",
-    "google": "no",
-    "https": "yes",
-    "country_code": "VN"
-  },
-  {
-    "ip": "113.160.133.85",
-    "port": "8080",
-    "anonymity": "elite proxy",
-    "google": "no",
-    "https": "yes",
-    "country_code": "VN"
-  },
-  {
-    "ip": "38.6.182.13",
-    "port": "8080",
-    "anonymity": "anonymous",
     "google": "yes",
     "https": "yes",
-    "country_code": "US"
+    "country_code": "JP"
+  },
+  {
+    "ip": "15.235.153.57",
+    "port": "8089",
+    "anonymity": "anonymous",
+    "google": "no",
+    "https": "yes",
+    "country_code": "SG"
+  },
+  {
+    "ip": "72.10.164.178",
+    "port": "1417",
+    "anonymity": "elite proxy",
+    "google": "no",
+    "https": "yes",
+    "country_code": "CA"
   },
   {
     "ip": "43.200.77.128",
@@ -30,6 +30,14 @@
     "google": "no",
     "https": "yes",
     "country_code": "KR"
+  },
+  {
+    "ip": "38.6.182.13",
+    "port": "8080",
+    "anonymity": "anonymous",
+    "google": "yes",
+    "https": "yes",
+    "country_code": "US"
   },
   {
     "ip": "171.244.60.55",
@@ -46,14 +54,6 @@
     "google": "no",
     "https": "yes",
     "country_code": "DE"
-  },
-  {
-    "ip": "15.235.153.57",
-    "port": "8089",
-    "anonymity": "anonymous",
-    "google": "no",
-    "https": "yes",
-    "country_code": "SG"
   },
   {
     "ip": "189.240.60.171",
@@ -100,14 +100,6 @@
     "port": "10095",
     "anonymity": "elite proxy",
     "google": "",
-    "https": "yes",
-    "country_code": "CA"
-  },
-  {
-    "ip": "72.10.164.178",
-    "port": "1417",
-    "anonymity": "elite proxy",
-    "google": "no",
     "https": "yes",
     "country_code": "CA"
   },
@@ -798,5 +790,13 @@
     "google": "yes",
     "https": "yes",
     "country_code": "SG"
+  },
+  {
+    "ip": "146.56.101.199",
+    "port": "22001",
+    "anonymity": "anonymous",
+    "google": "no",
+    "https": "yes",
+    "country_code": "KR"
   }
 ]
