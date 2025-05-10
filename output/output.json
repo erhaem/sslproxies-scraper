@@ -8,22 +8,6 @@
     "country_code": "KR"
   },
   {
-    "ip": "43.167.180.72",
-    "port": "13001",
-    "anonymity": "anonymous",
-    "google": "yes",
-    "https": "yes",
-    "country_code": "JP"
-  },
-  {
-    "ip": "34.143.143.61",
-    "port": "7777",
-    "anonymity": "anonymous",
-    "google": "no",
-    "https": "yes",
-    "country_code": "SG"
-  },
-  {
     "ip": "119.156.195.173",
     "port": "3128",
     "anonymity": "elite proxy",
@@ -40,20 +24,52 @@
     "country_code": "DE"
   },
   {
+    "ip": "34.143.143.61",
+    "port": "7777",
+    "anonymity": "anonymous",
+    "google": "no",
+    "https": "yes",
+    "country_code": "SG"
+  },
+  {
+    "ip": "99.79.124.70",
+    "port": "80",
+    "anonymity": "elite proxy",
+    "google": "no",
+    "https": "yes",
+    "country_code": "CA"
+  },
+  {
+    "ip": "52.194.186.70",
+    "port": "1080",
+    "anonymity": "elite proxy",
+    "google": "no",
+    "https": "yes",
+    "country_code": "JP"
+  },
+  {
+    "ip": "47.251.122.81",
+    "port": "8888",
+    "anonymity": "elite proxy",
+    "google": "no",
+    "https": "yes",
+    "country_code": "US"
+  },
+  {
+    "ip": "35.90.245.227",
+    "port": "31293",
+    "anonymity": "anonymous",
+    "google": "no",
+    "https": "yes",
+    "country_code": "US"
+  },
+  {
     "ip": "35.177.23.165",
     "port": "8000",
     "anonymity": "elite proxy",
     "google": "no",
     "https": "yes",
     "country_code": "GB"
-  },
-  {
-    "ip": "35.90.245.227",
-    "port": "31293",
-    "anonymity": "elite proxy",
-    "google": "no",
-    "https": "yes",
-    "country_code": "US"
   },
   {
     "ip": "52.11.48.124",
@@ -78,22 +94,6 @@
     "google": "no",
     "https": "yes",
     "country_code": "US"
-  },
-  {
-    "ip": "99.79.124.70",
-    "port": "80",
-    "anonymity": "elite proxy",
-    "google": "no",
-    "https": "yes",
-    "country_code": "CA"
-  },
-  {
-    "ip": "52.194.186.70",
-    "port": "1080",
-    "anonymity": "elite proxy",
-    "google": "no",
-    "https": "yes",
-    "country_code": "JP"
   },
   {
     "ip": "8.219.97.248",
@@ -144,14 +144,6 @@
     "country_code": "US"
   },
   {
-    "ip": "54.245.220.196",
-    "port": "8118",
-    "anonymity": "elite proxy",
-    "google": "no",
-    "https": "yes",
-    "country_code": "US"
-  },
-  {
     "ip": "72.10.160.174",
     "port": "15711",
     "anonymity": "elite proxy",
@@ -174,14 +166,6 @@
     "google": "no",
     "https": "yes",
     "country_code": "CA"
-  },
-  {
-    "ip": "47.236.224.32",
-    "port": "8080",
-    "anonymity": "elite proxy",
-    "google": "no",
-    "https": "yes",
-    "country_code": "SG"
   },
   {
     "ip": "172.188.122.92",
@@ -238,14 +222,6 @@
     "google": "no",
     "https": "yes",
     "country_code": "HK"
-  },
-  {
-    "ip": "47.251.122.81",
-    "port": "8888",
-    "anonymity": "elite proxy",
-    "google": "no",
-    "https": "yes",
-    "country_code": "US"
   },
   {
     "ip": "35.86.81.136",
@@ -480,14 +456,6 @@
     "country_code": "CA"
   },
   {
-    "ip": "35.153.237.105",
-    "port": "8080",
-    "anonymity": "anonymous",
-    "google": "no",
-    "https": "yes",
-    "country_code": "US"
-  },
-  {
     "ip": "156.244.11.6",
     "port": "82",
     "anonymity": "elite proxy",
@@ -622,6 +590,22 @@
     "google": "",
     "https": "yes",
     "country_code": "US"
+  },
+  {
+    "ip": "38.44.242.1",
+    "port": "999",
+    "anonymity": "anonymous",
+    "google": "",
+    "https": "yes",
+    "country_code": "DO"
+  },
+  {
+    "ip": "147.75.34.92",
+    "port": "443",
+    "anonymity": "anonymous",
+    "google": "",
+    "https": "yes",
+    "country_code": "NL"
   },
   {
     "ip": "137.184.174.32",
@@ -798,5 +782,21 @@
     "google": "",
     "https": "yes",
     "country_code": "AE"
+  },
+  {
+    "ip": "47.243.92.199",
+    "port": "3128",
+    "anonymity": "anonymous",
+    "google": "",
+    "https": "yes",
+    "country_code": "HK"
+  },
+  {
+    "ip": "47.89.184.18",
+    "port": "3128",
+    "anonymity": "anonymous",
+    "google": "",
+    "https": "yes",
+    "country_code": "US"
   }
 ]
