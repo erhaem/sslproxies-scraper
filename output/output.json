@@ -1,13 +1,5 @@
 [
   {
-    "ip": "57.129.81.201",
-    "port": "8080",
-    "anonymity": "anonymous",
-    "google": "no",
-    "https": "yes",
-    "country_code": "DE"
-  },
-  {
     "ip": "159.69.57.20",
     "port": "8880",
     "anonymity": "elite proxy",
@@ -40,6 +32,14 @@
     "country_code": "ES"
   },
   {
+    "ip": "34.102.48.89",
+    "port": "8080",
+    "anonymity": "elite proxy",
+    "google": "no",
+    "https": "yes",
+    "country_code": "US"
+  },
+  {
     "ip": "14.239.52.73",
     "port": "8080",
     "anonymity": "elite proxy",
@@ -56,12 +56,12 @@
     "country_code": "FR"
   },
   {
-    "ip": "4.149.210.210",
-    "port": "3128",
-    "anonymity": "anonymous",
+    "ip": "37.27.63.151",
+    "port": "34647",
+    "anonymity": "elite proxy",
     "google": "no",
     "https": "yes",
-    "country_code": "US"
+    "country_code": "FI"
   },
   {
     "ip": "47.236.224.32",
@@ -70,6 +70,30 @@
     "google": "no",
     "https": "yes",
     "country_code": "SG"
+  },
+  {
+    "ip": "57.129.81.201",
+    "port": "8080",
+    "anonymity": "anonymous",
+    "google": "no",
+    "https": "yes",
+    "country_code": "DE"
+  },
+  {
+    "ip": "143.198.42.182",
+    "port": "31280",
+    "anonymity": "elite proxy",
+    "google": "no",
+    "https": "yes",
+    "country_code": "CA"
+  },
+  {
+    "ip": "4.149.210.210",
+    "port": "3128",
+    "anonymity": "anonymous",
+    "google": "no",
+    "https": "yes",
+    "country_code": "US"
   },
   {
     "ip": "77.105.137.42",
@@ -772,30 +796,6 @@
     "port": "16000",
     "anonymity": "elite proxy",
     "google": "",
-    "https": "yes",
-    "country_code": "VN"
-  },
-  {
-    "ip": "27.79.143.36",
-    "port": "16000",
-    "anonymity": "elite proxy",
-    "google": "",
-    "https": "yes",
-    "country_code": "VN"
-  },
-  {
-    "ip": "195.181.164.156",
-    "port": "4095",
-    "anonymity": "anonymous",
-    "google": "yes",
-    "https": "yes",
-    "country_code": "GB"
-  },
-  {
-    "ip": "27.79.225.29",
-    "port": "16000",
-    "anonymity": "elite proxy",
-    "google": "no",
     "https": "yes",
     "country_code": "VN"
   }
