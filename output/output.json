@@ -1,37 +1,5 @@
 [
   {
-    "ip": "94.141.122.116",
-    "port": "8080",
-    "anonymity": "elite proxy",
-    "google": "yes",
-    "https": "yes",
-    "country_code": "FI"
-  },
-  {
-    "ip": "45.12.150.82",
-    "port": "8080",
-    "anonymity": "elite proxy",
-    "google": "no",
-    "https": "yes",
-    "country_code": "ES"
-  },
-  {
-    "ip": "57.129.81.201",
-    "port": "8080",
-    "anonymity": "anonymous",
-    "google": "yes",
-    "https": "yes",
-    "country_code": "DE"
-  },
-  {
-    "ip": "213.199.49.191",
-    "port": "3128",
-    "anonymity": "anonymous",
-    "google": "no",
-    "https": "yes",
-    "country_code": "DE"
-  },
-  {
     "ip": "13.40.152.64",
     "port": "46187",
     "anonymity": "elite proxy",
@@ -64,6 +32,30 @@
     "country_code": "GB"
   },
   {
+    "ip": "3.64.135.122",
+    "port": "3128",
+    "anonymity": "anonymous",
+    "google": "no",
+    "https": "yes",
+    "country_code": "DE"
+  },
+  {
+    "ip": "200.174.198.86",
+    "port": "8888",
+    "anonymity": "anonymous",
+    "google": "no",
+    "https": "yes",
+    "country_code": "BR"
+  },
+  {
+    "ip": "93.190.138.107",
+    "port": "56786",
+    "anonymity": "anonymous",
+    "google": "no",
+    "https": "yes",
+    "country_code": "NL"
+  },
+  {
     "ip": "167.71.211.171",
     "port": "30007",
     "anonymity": "elite proxy",
@@ -78,6 +70,62 @@
     "google": "no",
     "https": "yes",
     "country_code": "US"
+  },
+  {
+    "ip": "57.129.81.201",
+    "port": "8080",
+    "anonymity": "anonymous",
+    "google": "yes",
+    "https": "yes",
+    "country_code": "DE"
+  },
+  {
+    "ip": "8.219.97.248",
+    "port": "80",
+    "anonymity": "anonymous",
+    "google": "no",
+    "https": "yes",
+    "country_code": "SG"
+  },
+  {
+    "ip": "31.40.248.2",
+    "port": "8080",
+    "anonymity": "anonymous",
+    "google": "no",
+    "https": "yes",
+    "country_code": "RU"
+  },
+  {
+    "ip": "65.108.203.37",
+    "port": "18080",
+    "anonymity": "anonymous",
+    "google": "no",
+    "https": "yes",
+    "country_code": "FI"
+  },
+  {
+    "ip": "159.69.57.20",
+    "port": "8880",
+    "anonymity": "elite proxy",
+    "google": "no",
+    "https": "yes",
+    "country_code": "DE"
+  },
+  {
+    "ip": "213.199.49.191",
+    "port": "3128",
+    "anonymity": "anonymous",
+    "google": "",
+    "https": "yes",
+    "country_code": "DE"
+  },
+  {
+    "ip": "154.236.177.104",
+    "port": "1977",
+    "anonymity": "anonymous",
+    "google": "",
+    "https": "yes",
+    "country_code": "EG"
   },
   {
     "ip": "47.251.122.81",
@@ -96,28 +144,12 @@
     "country_code": "CA"
   },
   {
-    "ip": "200.174.198.86",
-    "port": "8888",
-    "anonymity": "anonymous",
-    "google": "no",
-    "https": "yes",
-    "country_code": "BR"
-  },
-  {
     "ip": "65.109.85.231",
     "port": "9091",
     "anonymity": "elite proxy",
     "google": "no",
     "https": "yes",
     "country_code": "FI"
-  },
-  {
-    "ip": "159.69.57.20",
-    "port": "8880",
-    "anonymity": "elite proxy",
-    "google": "no",
-    "https": "yes",
-    "country_code": "DE"
   },
   {
     "ip": "18.158.14.115",
@@ -230,14 +262,6 @@
     "google": "",
     "https": "yes",
     "country_code": "HK"
-  },
-  {
-    "ip": "93.190.138.107",
-    "port": "56786",
-    "anonymity": "anonymous",
-    "google": "no",
-    "https": "yes",
-    "country_code": "NL"
   },
   {
     "ip": "40.76.69.94",
@@ -771,30 +795,6 @@
     "ip": "160.191.87.165",
     "port": "60001",
     "anonymity": "anonymous",
-    "google": "no",
-    "https": "yes",
-    "country_code": "VN"
-  },
-  {
-    "ip": "171.243.2.162",
-    "port": "9002",
-    "anonymity": "elite proxy",
-    "google": "yes",
-    "https": "yes",
-    "country_code": "VN"
-  },
-  {
-    "ip": "67.43.228.252",
-    "port": "16327",
-    "anonymity": "elite proxy",
-    "google": "yes",
-    "https": "yes",
-    "country_code": "CA"
-  },
-  {
-    "ip": "27.79.144.168",
-    "port": "16000",
-    "anonymity": "elite proxy",
     "google": "no",
     "https": "yes",
     "country_code": "VN"
