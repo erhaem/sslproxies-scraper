@@ -1,91 +1,35 @@
 [
   {
-    "ip": "65.109.210.247",
-    "port": "1080",
-    "anonymity": "elite proxy",
-    "google": "no",
-    "https": "yes",
-    "country_code": "FI"
-  },
-  {
-    "ip": "8.217.124.178",
-    "port": "49440",
-    "anonymity": "elite proxy",
-    "google": "no",
-    "https": "yes",
-    "country_code": "HK"
-  },
-  {
-    "ip": "185.250.180.238",
-    "port": "8080",
-    "anonymity": "anonymous",
-    "google": "no",
-    "https": "yes",
-    "country_code": "US"
-  },
-  {
-    "ip": "189.240.60.171",
-    "port": "9090",
-    "anonymity": "elite proxy",
-    "google": "no",
-    "https": "yes",
-    "country_code": "MX"
-  },
-  {
-    "ip": "8.219.97.248",
-    "port": "80",
-    "anonymity": "anonymous",
-    "google": "no",
-    "https": "yes",
-    "country_code": "SG"
-  },
-  {
-    "ip": "189.240.60.164",
-    "port": "9090",
-    "anonymity": "elite proxy",
-    "google": "no",
-    "https": "yes",
-    "country_code": "MX"
-  },
-  {
-    "ip": "66.201.7.151",
+    "ip": "212.16.77.50",
     "port": "3128",
     "anonymity": "elite proxy",
-    "google": "no",
+    "google": "yes",
     "https": "yes",
-    "country_code": "FR"
+    "country_code": "IR"
   },
   {
-    "ip": "34.102.48.89",
+    "ip": "80.190.82.58",
+    "port": "14602",
+    "anonymity": "anonymous",
+    "google": "yes",
+    "https": "yes",
+    "country_code": "GB"
+  },
+  {
+    "ip": "31.40.248.2",
     "port": "8080",
-    "anonymity": "elite proxy",
-    "google": "no",
-    "https": "yes",
-    "country_code": "US"
-  },
-  {
-    "ip": "200.174.198.86",
-    "port": "8888",
     "anonymity": "anonymous",
     "google": "no",
     "https": "yes",
-    "country_code": "BR"
+    "country_code": "RU"
   },
   {
-    "ip": "185.234.65.66",
-    "port": "1080",
-    "anonymity": "elite proxy",
+    "ip": "93.190.138.107",
+    "port": "56786",
+    "anonymity": "anonymous",
     "google": "no",
     "https": "yes",
     "country_code": "NL"
-  },
-  {
-    "ip": "189.240.60.169",
-    "port": "9090",
-    "anonymity": "elite proxy",
-    "google": "no",
-    "https": "yes",
-    "country_code": "MX"
   },
   {
     "ip": "51.81.245.3",
@@ -104,22 +48,6 @@
     "country_code": "DE"
   },
   {
-    "ip": "143.198.42.182",
-    "port": "31280",
-    "anonymity": "elite proxy",
-    "google": "no",
-    "https": "yes",
-    "country_code": "CA"
-  },
-  {
-    "ip": "72.10.160.90",
-    "port": "18457",
-    "anonymity": "elite proxy",
-    "google": "yes",
-    "https": "yes",
-    "country_code": "CA"
-  },
-  {
     "ip": "159.69.57.20",
     "port": "8880",
     "anonymity": "elite proxy",
@@ -128,12 +56,20 @@
     "country_code": "DE"
   },
   {
-    "ip": "189.240.60.162",
-    "port": "9090",
+    "ip": "93.115.172.94",
+    "port": "1080",
     "anonymity": "elite proxy",
     "google": "no",
     "https": "yes",
-    "country_code": "MX"
+    "country_code": "NL"
+  },
+  {
+    "ip": "66.201.7.151",
+    "port": "3128",
+    "anonymity": "elite proxy",
+    "google": "no",
+    "https": "yes",
+    "country_code": "FR"
   },
   {
     "ip": "139.59.34.209",
@@ -144,12 +80,12 @@
     "country_code": "IN"
   },
   {
-    "ip": "72.10.160.173",
-    "port": "5043",
+    "ip": "40.76.69.94",
+    "port": "8080",
     "anonymity": "elite proxy",
-    "google": "yes",
+    "google": "no",
     "https": "yes",
-    "country_code": "CA"
+    "country_code": "US"
   },
   {
     "ip": "45.140.143.77",
@@ -160,28 +96,44 @@
     "country_code": "NL"
   },
   {
-    "ip": "31.40.248.2",
-    "port": "8080",
-    "anonymity": "anonymous",
-    "google": "no",
-    "https": "yes",
-    "country_code": "RU"
-  },
-  {
-    "ip": "189.240.60.166",
-    "port": "9090",
+    "ip": "103.3.58.162",
+    "port": "3128",
     "anonymity": "elite proxy",
     "google": "no",
     "https": "yes",
-    "country_code": "MX"
+    "country_code": "ID"
   },
   {
-    "ip": "176.9.164.117",
-    "port": "60009",
-    "anonymity": "anonymous",
+    "ip": "40.71.46.210",
+    "port": "8214",
+    "anonymity": "elite proxy",
     "google": "no",
     "https": "yes",
-    "country_code": "DE"
+    "country_code": "US"
+  },
+  {
+    "ip": "185.234.65.66",
+    "port": "1080",
+    "anonymity": "elite proxy",
+    "google": "no",
+    "https": "yes",
+    "country_code": "NL"
+  },
+  {
+    "ip": "143.198.42.182",
+    "port": "31280",
+    "anonymity": "elite proxy",
+    "google": "no",
+    "https": "yes",
+    "country_code": "CA"
+  },
+  {
+    "ip": "116.103.30.89",
+    "port": "16000",
+    "anonymity": "anonymous",
+    "google": "yes",
+    "https": "yes",
+    "country_code": "VN"
   },
   {
     "ip": "189.240.60.168",
@@ -192,20 +144,132 @@
     "country_code": "MX"
   },
   {
-    "ip": "67.43.236.18",
-    "port": "3927",
+    "ip": "189.240.60.162",
+    "port": "9090",
+    "anonymity": "elite proxy",
+    "google": "no",
+    "https": "yes",
+    "country_code": "MX"
+  },
+  {
+    "ip": "189.240.60.172",
+    "port": "9090",
+    "anonymity": "elite proxy",
+    "google": "no",
+    "https": "yes",
+    "country_code": "MX"
+  },
+  {
+    "ip": "51.20.30.186",
+    "port": "8888",
+    "anonymity": "elite proxy",
+    "google": "yes",
+    "https": "yes",
+    "country_code": "SE"
+  },
+  {
+    "ip": "47.236.224.32",
+    "port": "8080",
+    "anonymity": "elite proxy",
+    "google": "no",
+    "https": "yes",
+    "country_code": "SG"
+  },
+  {
+    "ip": "189.240.60.171",
+    "port": "9090",
+    "anonymity": "elite proxy",
+    "google": "no",
+    "https": "yes",
+    "country_code": "MX"
+  },
+  {
+    "ip": "47.252.29.28",
+    "port": "11222",
+    "anonymity": "elite proxy",
+    "google": "no",
+    "https": "yes",
+    "country_code": "US"
+  },
+  {
+    "ip": "189.240.60.169",
+    "port": "9090",
+    "anonymity": "elite proxy",
+    "google": "no",
+    "https": "yes",
+    "country_code": "MX"
+  },
+  {
+    "ip": "189.240.60.166",
+    "port": "9090",
+    "anonymity": "elite proxy",
+    "google": "no",
+    "https": "yes",
+    "country_code": "MX"
+  },
+  {
+    "ip": "95.111.229.159",
+    "port": "8080",
+    "anonymity": "anonymous",
+    "google": "no",
+    "https": "yes",
+    "country_code": "FR"
+  },
+  {
+    "ip": "189.240.60.164",
+    "port": "9090",
+    "anonymity": "elite proxy",
+    "google": "no",
+    "https": "yes",
+    "country_code": "MX"
+  },
+  {
+    "ip": "67.43.236.21",
+    "port": "27413",
     "anonymity": "elite proxy",
     "google": "yes",
     "https": "yes",
     "country_code": "CA"
   },
   {
-    "ip": "8.210.117.141",
-    "port": "8888",
+    "ip": "103.156.57.118",
+    "port": "8080",
     "anonymity": "elite proxy",
     "google": "no",
     "https": "yes",
-    "country_code": "HK"
+    "country_code": "ID"
+  },
+  {
+    "ip": "65.109.210.247",
+    "port": "1080",
+    "anonymity": "elite proxy",
+    "google": "no",
+    "https": "yes",
+    "country_code": "FI"
+  },
+  {
+    "ip": "72.10.160.173",
+    "port": "5043",
+    "anonymity": "elite proxy",
+    "google": "yes",
+    "https": "yes",
+    "country_code": "CA"
+  },
+  {
+    "ip": "176.9.164.117",
+    "port": "60009",
+    "anonymity": "anonymous",
+    "google": "no",
+    "https": "yes",
+    "country_code": "DE"
+  },
+  {
+    "ip": "67.43.236.18",
+    "port": "3927",
+    "anonymity": "elite proxy",
+    "google": "yes",
+    "https": "yes",
+    "country_code": "CA"
   },
   {
     "ip": "220.118.198.242",
@@ -224,30 +288,6 @@
     "country_code": "CN"
   },
   {
-    "ip": "14.241.80.37",
-    "port": "8080",
-    "anonymity": "elite proxy",
-    "google": "no",
-    "https": "yes",
-    "country_code": "VN"
-  },
-  {
-    "ip": "103.3.58.162",
-    "port": "3128",
-    "anonymity": "elite proxy",
-    "google": "no",
-    "https": "yes",
-    "country_code": "ID"
-  },
-  {
-    "ip": "95.111.229.159",
-    "port": "8080",
-    "anonymity": "anonymous",
-    "google": "no",
-    "https": "yes",
-    "country_code": "FR"
-  },
-  {
     "ip": "186.207.148.71",
     "port": "8787",
     "anonymity": "elite proxy",
@@ -264,22 +304,6 @@
     "country_code": "ZA"
   },
   {
-    "ip": "103.156.57.118",
-    "port": "8080",
-    "anonymity": "elite proxy",
-    "google": "no",
-    "https": "yes",
-    "country_code": "ID"
-  },
-  {
-    "ip": "93.190.138.107",
-    "port": "56786",
-    "anonymity": "anonymous",
-    "google": "no",
-    "https": "yes",
-    "country_code": "NL"
-  },
-  {
     "ip": "67.43.228.250",
     "port": "7015",
     "anonymity": "elite proxy",
@@ -292,14 +316,6 @@
     "port": "18099",
     "anonymity": "elite proxy",
     "google": "yes",
-    "https": "yes",
-    "country_code": "US"
-  },
-  {
-    "ip": "4.149.210.210",
-    "port": "3128",
-    "anonymity": "anonymous",
-    "google": "no",
     "https": "yes",
     "country_code": "US"
   },
@@ -782,21 +798,5 @@
     "google": "",
     "https": "yes",
     "country_code": "CO"
-  },
-  {
-    "ip": "222.228.171.92",
-    "port": "8080",
-    "anonymity": "anonymous",
-    "google": "",
-    "https": "yes",
-    "country_code": "JP"
-  },
-  {
-    "ip": "5.102.109.41",
-    "port": "999",
-    "anonymity": "anonymous",
-    "google": "",
-    "https": "yes",
-    "country_code": "MX"
   }
 ]
