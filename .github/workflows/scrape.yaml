@@ -2,7 +2,7 @@ name: Scrape
 
 on:
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '0 5 * * *'
   workflow_dispatch:
 
 concurrency:
@@ -30,3 +30,4 @@ jobs:
           git commit -am "update proxy: ${timestamp}"
           git push origin ${{ github.ref }}
         continue-on-error: true
+
